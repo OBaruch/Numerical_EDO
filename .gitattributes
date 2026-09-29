@@ -1,0 +1,3 @@
+# Preserve the original MATLAB sources byte-for-byte
+# (ISO-8859-1 encoding, CRLF line endings). Never normalize them.
+*.m -text

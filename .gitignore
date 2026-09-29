@@ -1,0 +1,12 @@
+# MATLAB editor autosave and backup files
+*.asv
+*.m~
+
+# MATLAB / Octave workspace and runtime artifacts
+*.mat
+octave-workspace
+slprj/
+
+# OS files
+.DS_Store
+Thumbs.db
